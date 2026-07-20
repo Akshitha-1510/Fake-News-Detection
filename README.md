@@ -171,4 +171,8 @@ Run all cells to train and test the models.
 
 ---
 
+<<<<<<< HEAD
 ## ⭐ If you found this project useful, consider giving it a star!
+=======
+## ⭐ If you found this project useful, consider giving it a star!
+>>>>>>> 0b7c0610dfbe36747bdba98d17afbffe09ab067e
